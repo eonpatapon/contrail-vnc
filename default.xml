@@ -4,7 +4,7 @@
 
 <default revision="R3.2" remote="github"/>
 
-<project name="contrail-controller" remote="cloudwatt" revision="R3.2-cloudwatt" path="controller"/>
+<project name="contrail-controller" remote="cloudwatt" revision="R3.2-cloudwatt-migration" path="controller"/>
 <project name="contrail-neutron-plugin" remote="cloudwatt" revision="R3.2-cloudwatt" path="openstack/neutron_plugin"/>
 
 <project name="contrail-build" remote="github" path="tools/build">
